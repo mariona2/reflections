@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+When you initialize a repository automatically a folder named .Git is created, where all the metadata is stored. This folder is hidden. 
+The first time you init a repository, it won't have any commits stored yet. From that moment, you can start creating commits.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It is a previous step to commit, and the value it offers is to add several changes/files in one commit
