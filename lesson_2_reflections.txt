@@ -3,3 +3,7 @@ When you initialize a repository automatically a folder named .Git is created, w
 The first time you init a repository, it won't have any commits stored yet. From that moment, you can start creating commits.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It is a previous step to commit, and the value it offers is to add several changes/files in one commit
+
+How can you use the staging area to make sure you have one commit per logical change?
+once you have done the change, use git add, to add it in the staging area, followed by git commit -m
+repeat this for every commit 
