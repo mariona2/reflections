@@ -1,0 +1,3 @@
+How can you use the staging area to make sure you have one commit per logical change?
+once you have done the change, use git add, to add it in the staging area, followed by git commit -m
+repeat this for every commit 
