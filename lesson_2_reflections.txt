@@ -7,3 +7,17 @@ It is a previous step to commit, and the value it offers is to add several chang
 How can you use the staging area to make sure you have one commit per logical change?
 once you have done the change, use git add, to add it in the staging area, followed by git commit -m
 repeat this for every commit 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+If you want to create different versions of a file and keep them all, for example, changing the language, or some features. It will allow you to have different versions from the different branches.
+
+How do the diagrams help you visualize the branch structure?
+You can see what branches do you have and also if there are any branches not reachable
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result is to combine the branches together, without loosing any commits.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+The Git automatic merging saves you a lot of time.
+Doing it manually can be more tedious.
+Once there is a conflict though, you have to solve it manually, which is good, because you make sure that the best solution is saved
