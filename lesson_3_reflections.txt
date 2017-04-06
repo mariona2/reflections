@@ -3,3 +3,11 @@ When you want to work from different computers, or you want to work in a project
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Because maybe you discard the changes or you don't want other people to see something that it might not be full functional, etc.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks is only used in github and it clones a repository directly from github to github.
+Clones copies a repository from github to local or grom locl  to local.
+Branches refers to the same repository
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+If you are going to be inactive for a long period of time (i.e. holidays) you might want to know what changes have been made since then. In that case, it would make sense to have a copy of the last known state of the remote repository.
