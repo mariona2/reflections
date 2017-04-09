@@ -11,3 +11,7 @@ Branches refers to the same repository
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 If you are going to be inactive for a long period of time (i.e. holidays) you might want to know what changes have been made since then. In that case, it would make sense to have a copy of the last known state of the remote repository.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would divide the tasks and then put everything together.
+It would be difficult to make sure all the parts work well together and also, to make changes after everything is put together.
